@@ -6,5 +6,5 @@ web development and designer
 
 i have been learning c++ for less than 5 months
 
-* 🌍  I'm based in Ghana
-* ✉️  You can contact me at [portuphysamuel55@gmail.com](mailto:portuphysamuel55@gmail.com)
+*   🌍  I'm based in Ghana
+*   ✉️  You can contact me at [portuphysamuel55@gmail.com](mailto:portuphysamuel55@gmail.com)
